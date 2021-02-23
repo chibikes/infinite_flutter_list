@@ -1,6 +1,6 @@
 # mylist_flutter
 
-A new Flutter application.
+A Flutter infinite list application that uses flutter_bloc pattern for state management.
 
 ## Getting Started
 
